@@ -48,5 +48,7 @@ public class Main{
 
 
         System.out.printf("After change");
+
+        System.out.printf("After change");
     }
 }
