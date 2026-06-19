@@ -50,5 +50,11 @@ public class Main{
         System.out.printf("After change");
 
         System.out.printf("After change");
+
+        System.out.println("Maha");
+
+        System.out.println("Lakshmi");
+
+        System.out.println("Deepa");
     }
 }
