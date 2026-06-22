@@ -47,6 +47,14 @@ public class Main{
                 .forEach(System.out::println);
 
 
+        System.out.println("Maha");
+
+
+
+        System.out.println("Maya");
+
+
+
 
     }
 }
