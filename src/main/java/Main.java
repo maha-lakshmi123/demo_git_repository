@@ -47,14 +47,6 @@ public class Main{
                 .forEach(System.out::println);
 
 
-        System.out.printf("After change");
 
-        System.out.printf("After change");
-
-        System.out.println("Maha");
-
-        System.out.println("Lakshmi");
-
-        System.out.println("Deepa");
     }
 }
