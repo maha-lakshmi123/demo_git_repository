@@ -49,7 +49,9 @@ public class Main{
 
         System.out.println("Maha");
 
-        System.out.println("lakshmi");
+
+
+        System.out.println("Maya");
 
 
 
